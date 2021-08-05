@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kareem-ghazi&label=Profile%20views&color=0e75b6&style=flat" alt="kareem-ghazi" /> </p>
 
-- 🔭 I’m currently working on **[bUtilities](https://github.com/kareem-ghazi/bUtilities)**.
+- 🔭 I’m currently working on **[jUtilities](https://github.com/kareem-ghazi/jUtilities)**.
 
 - 🌱 I’m currently learning **Java & HTML**.
 
