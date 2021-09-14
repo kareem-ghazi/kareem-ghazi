@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kareem 👋</h1>
 <h3 align="center">A passionate developer from Egypt.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kareem-ghazi&label=Profile%20views&color=0e75b6&style=flat" alt="kareem-ghazi" /> </p>
+<br>
 
 - 🔭 I’m currently working on **[jUtilities](https://github.com/kareem-ghazi/jUtilities)**.
 
