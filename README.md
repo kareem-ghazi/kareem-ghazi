@@ -1,23 +1,15 @@
-<h1 align="center">Hi there, I'm Kareem 👋</h1>
+<h1 align="center">Hi 👋, I'm Kareem Ghazi</h1>
 
-<br>
+## 💫 About Me
+Hi there! I'm Kareem Ghazi, a curious and passionate first-year Artificial Intelligence Engineering student at New Mansoura University, Egypt. Driven by a profound interest in LLMs and Robotics, I dedicate myself to exploring and contributing to this transformative field.
 
-- 🔭 I’m currently working on **surviving college**.
+## 🚀 What I'm Up To
 
-- 🌱 I’m currently learning -.
+- 🤖 Exploring the world of Robotics using [Arduino](https://www.arduino.cc/).
+- 💻 Building projects using C++.
 
-- 💬 Ask me about anything I actually understand.
-
-- 📫 How to reach me: by **[email](mailto:k.ghazi2005@gmail.com)**.
-
-- ⚡ Fun fact: **Did you know that 80% of fun facts are false? (including this one.)**
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> 
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kareem-ghazi&show_icons=true&locale=en&theme=vue-dark" alt="kareem-ghazi" />
-</p>
+## 💻 Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
