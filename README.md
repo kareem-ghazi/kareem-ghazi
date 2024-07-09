@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kareem Ghazi</h1>
 
 ## 💫 About Me
-Hi there! I'm Kareem Ghazi, a curious and passionate first-year Artificial Intelligence Engineering student at New Mansoura University, Egypt. Driven by a profound interest in LLMs and Robotics, I dedicate myself to exploring and contributing to this transformative field.
+Hi there! I'm Kareem Ghazi, a curious and passionate second-year Artificial Intelligence Engineering student at New Mansoura University, Egypt. Driven by a profound interest in Computer Vision and Robotics, I dedicate myself to exploring these fields and open to whatever comes up new.
 
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring the world of Robotics using [Arduino](https://www.arduino.cc/).
+- 🎖️ Understanding the essence of Competitive Programming and training for the ICPC.
 - 💻 Building projects using C++.
 
 ## 💻 Tech Stack
