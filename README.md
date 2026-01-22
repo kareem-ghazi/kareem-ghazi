@@ -6,7 +6,7 @@ Hi there! I'm Kareem Ghazi, a curious and passionate **third-year** Artificial I
 ## 🚀 What I'm Up To
 
 - 📱 **Mobile Development:** Building cross-platform applications using **Flutter** and **Dart**.
-- 🎖️ **Competitive Programming:** Understanding the essence of Competitive Programming and practicing on [LeetCode](https://leetcode.com/).
+- 🎖️ **Problem Solving:** Understanding the essence of Problem Solving and practicing on [LeetCode](https://leetcode.com/).
 - 📊 **AI & ML:** Developing AI & NLP models using **Python**, **Jupyter Notebooks**, and the **Anaconda** ecosystem.
 
 ## 💻 Tech Stack
